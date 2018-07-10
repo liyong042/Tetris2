@@ -10,3 +10,9 @@ Five people online ， tetris
   4，  消息的异步通知  （主要是网络消息的异步通知）
   5 ,  游戏界面信息的差异传输已经数据编码  
   6 ,  tcp 的网络编程   
+
+#游戏界面 
+    https://github.com/liyong042/Tetris2/blob/master/761458047397.png
+    
+#分服务器 和 客户端 2组  
+   所以代码都在 仿真QQ游戏火拼俄罗斯源码.rar 中 
