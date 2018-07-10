@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <CSHARP LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "g:\李勇\俄罗斯\俄罗斯总体设计28\自定义控件_labelsmalltetir\bin\debug\;d:\酒店管理系统\2006-俄罗斯\俄罗斯设计\俄罗斯设计137\控件制作\bin\debug\;F:\李勇\俄罗斯设计40\控件制作\bin\debug\;F:\李勇\俄罗斯\俄罗斯设计41\控件制作\bin\debug\;G:\李勇\俄罗斯\俄罗斯设计45\控件制作\bin\debug\;E:\李勇\俄罗斯设计58\俄罗斯设计52\控件制作\bin\debug\;f:\李勇\俄罗斯\俄罗斯设计78\自定义控件label\bin\debug\;D:\酒店管理系统\2006-俄罗斯\俄罗斯设计\俄罗斯设计81\自定义控件label\bin\debug\;G:\ly\俄罗斯设计85\控件制作\bin\debug\;G:\ly\俄罗斯设计85\自定义控件label\bin\debug\;D:\李勇\俄罗斯设计86\控件制作\bin\debug\;D:\李勇\俄罗斯设计86\自定义控件label\bin\debug\;d:\李勇\俄罗斯设计86\自定义控件topmess\bin\debug\;F:\李勇\俄罗斯\俄罗斯设计86\自定义控件topmess\bin\debug\;F:\李勇\俄罗斯设计88\控件制作\bin\debug\;F:\李勇\俄罗斯设计88\自定义控件label\bin\debug\;F:\李勇\俄罗斯设计88\自定义控件topmess\bin\debug\;E:\李勇\俄罗斯设计89\控件制作\bin\debug\;E:\李勇\俄罗斯设计89\自定义控件label\bin\debug\;E:\李勇\俄罗斯设计89\自定义控件topmess\bin\debug\;F:\李勇\俄罗斯\俄罗斯设计92\自定义控件topmess\bin\debug\;D:\酒店管理系统\2006-俄罗斯\俄罗斯设计\俄罗斯总体设计4\自定义控件topmess\bin\debug\;D:\酒店管理系统\2006-俄罗斯\俄罗斯设计\俄罗斯总体设计11\自定义控件topmess\bin\debug\;G:\李勇\俄罗斯\俄罗斯总体设计13\控件制作\bin\debug\;G:\李勇\俄罗斯\俄罗斯总体设计13\自定义控件label\bin\debug\;G:\李勇\俄罗斯\俄罗斯总体设计13\自定义控件topmess\bin\debug\;g:\李勇\俄罗斯\俄罗斯总体设计27\自定义控件_labelsmalltetir\bin\debug\;g:\李勇\俄罗斯\控件_接口\自定义控件1\bin\debug\;G:\liyong\毕业设计俄罗斯\俄罗斯总体设计30\俄罗斯总体设计30\控件制作\bin\debug\;G:\liyong\毕业设计俄罗斯\俄罗斯总体设计30\俄罗斯总体设计30\自定义控件label\bin\debug\;G:\liyong\毕业设计俄罗斯\俄罗斯总体设计30\俄罗斯总体设计30\自定义控件topmess\bin\debug\;G:\liyong\毕业设计俄罗斯\俄罗斯总体设计30\俄罗斯总体设计30\自定义控件_labelsmalltetir\bin\debug\;E:\李勇\俄罗斯总体设计36\俄罗斯总体设计30\控件制作\bin\debug\;E:\李勇\俄罗斯总体设计36\俄罗斯总体设计30\自定义控件label\bin\debug\;E:\李勇\俄罗斯总体设计36\俄罗斯总体设计30\自定义控件topmess\bin\debug\;E:\李勇\俄罗斯总体设计36\俄罗斯总体设计30\自定义控件_labelsmalltetir\bin\debug\;H:\李勇\俄罗斯总体设计38\俄罗斯总体设计30\控件制作\bin\debug\;H:\李勇\俄罗斯总体设计38\俄罗斯总体设计30\自定义控件label\bin\debug\;H:\李勇\俄罗斯总体设计38\俄罗斯总体设计30\自定义控件topmess\bin\debug\;H:\李勇\俄罗斯总体设计38\俄罗斯总体设计30\自定义控件_labelsmalltetir\bin\debug\;G:\李勇\俄罗斯总体设计41\俄罗斯总体设计30\控件制作\bin\debug\;G:\李勇\俄罗斯总体设计41\俄罗斯总体设计30\自定义控件label\bin\debug\;G:\李勇\俄罗斯总体设计41\俄罗斯总体设计30\自定义控件topmess\bin\debug\;G:\李勇\俄罗斯总体设计41\俄罗斯总体设计30\自定义控件_labelsmalltetir\bin\debug\;E:\李勇\俄罗斯总体设计43\俄罗斯总体设计30\控件制作\bin\debug\;E:\李勇\俄罗斯总体设计43\俄罗斯总体设计30\自定义控件label\bin\debug\;E:\李勇\俄罗斯总体设计43\俄罗斯总体设计30\自定义控件topmess\bin\debug\;E:\李勇\俄罗斯总体设计43\俄罗斯总体设计30\自定义控件_labelsmalltetir\bin\debug\;D:\ly\俄罗斯总体设计44\俄罗斯总体设计30\控件制作\bin\debug\;D:\ly\俄罗斯总体设计44\俄罗斯总体设计30\自定义控件label\bin\debug\;D:\ly\俄罗斯总体设计44\俄罗斯总体设计30\自定义控件topmess\bin\debug\;D:\ly\俄罗斯总体设计44\俄罗斯总体设计30\自定义控件_labelsmalltetir\bin\debug\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </CSHARP>
+</VisualStudioProject>
+
